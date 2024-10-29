@@ -1,0 +1,7 @@
+[
+    {"title": "Bar 1", "current": 50, "total": 100, "color": "#FF5733"},
+    {"title": "Bar 2", "current": 75, "total": 100, "color": "#33FF57"},
+    {"title": "Bar 3", "current": 25, "total": 100, "color": "#3357FF"},
+    {"title": "Bar 4", "current": 80, "total": 100, "color": "#F1C40F"},
+    {"title": "Bar 5", "current": 40, "total": 100, "color": "#9B59B6"}
+]
